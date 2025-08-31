@@ -49,7 +49,7 @@ CLEAR
 
 *_Screen.ColorSource=5
 
-?"Запуск my system.app"
+?"Starting my system.app"
 *!*	?"Запуск foxcodeplus.app"
 *!*	DO ("c:\program files (x86)\microsoft visual foxpro 9\foxcodeplus.app")
 
